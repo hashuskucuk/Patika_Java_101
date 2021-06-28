@@ -1,10 +1,6 @@
 import java.util.Scanner;
 public class Harmonik {
-
-
-
-
-
+    
         public static void main(String[] args) {
             int i, n;
             int dizi[] = {1, 2, 3, 4, 5};
